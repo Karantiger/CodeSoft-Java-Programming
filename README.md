@@ -11,4 +11,4 @@ This repository contains the tasks and projects completed as part of the **CodSo
 ✅ Task 5 – **Student Management System**  
 
 ### 💻 **Technologies Used**  <br>
-- Java Programming Hain
+- Java
